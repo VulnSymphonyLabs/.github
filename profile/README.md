@@ -42,7 +42,7 @@ Redistribution or public disclosure is prohibited without written permission.
 | ----------------------------------------- | ------------------------------------------------- |
 | `.github/profile/README.md` *(this file)* | Landing page you’re reading                       |
 | `vs-template`                             | Template repo—common skeleton, licence, CI checks |
-| `vs-…` repos                              | Individual vulnerable systems (private)           |
+|  repos                              | Individual vulnerable systems (private)           |
 | `vsl-index` *(coming soon)*               | YAML manifest + CLI that pulls a system on demand |
 
 ---
